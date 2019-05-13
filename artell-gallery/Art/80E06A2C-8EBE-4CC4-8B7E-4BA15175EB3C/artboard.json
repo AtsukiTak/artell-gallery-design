@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "82637F5C-1F3D-4601-B1B6-6EC9CA4B98D0",
-    "height": 1315,
+    "height": 1373,
     "width": 375,
     "x": 913,
     "y": 150
@@ -89,6 +89,10 @@
     {
       "class": "group",
       "id": "D2255588-D39D-4FE8-AF7D-90C03FFACC5A"
+    },
+    {
+      "class": "text",
+      "id": "6D5F31C1-39E0-4E1D-9142-10BF4B796E20"
     }
   ],
   "name": "iPhone 8 Artist",

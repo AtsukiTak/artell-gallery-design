@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1400,
+    "height": 1435,
     "width": 1440,
     "x": 1388,
     "y": 150
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -96,6 +96,10 @@
     {
       "class": "group",
       "id": "3BC0C2A8-646A-476A-B37B-3DD811BFAA9C"
+    },
+    {
+      "class": "text",
+      "id": "4F548881-CBA3-4C2B-BAF8-8168B029A547"
     }
   ],
   "name": "Desktop HD",

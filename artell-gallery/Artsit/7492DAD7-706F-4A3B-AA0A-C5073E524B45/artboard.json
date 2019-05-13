@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1631,
+    "height": 1676,
     "width": 375,
     "x": 913,
     "y": 150
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -84,6 +84,10 @@
     {
       "class": "group",
       "id": "F2B7CF4F-16EC-41AE-B67A-63BF29723CC0"
+    },
+    {
+      "class": "text",
+      "id": "69EFB9D4-FBDB-477F-A1AA-87BDCFBC1C43"
     }
   ],
   "name": "iPhone 8 Artist",
