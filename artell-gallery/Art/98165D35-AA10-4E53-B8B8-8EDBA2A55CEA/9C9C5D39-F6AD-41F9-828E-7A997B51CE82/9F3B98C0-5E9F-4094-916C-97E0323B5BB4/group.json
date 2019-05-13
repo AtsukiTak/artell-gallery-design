@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F3B98C0-5E9F-4094-916C-97E0323B5BB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DC32BE6-B9CD-4241-A234-EE8438C41443",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74EED038-6EF7-48CB-BC7D-7193959F2F20",
+    "height": 18,
+    "width": 84,
+    "x": 148,
+    "y": 112
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0D80C4B0-7235-4144-88D7-7B68DB9F905B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "27667AF6-6A53-412C-AC01-D9993A1EF0E6"
+    },
+    {
+      "class": "group",
+      "id": "EF073675-89CA-48C7-B3D7-0ED39A3115F5"
+    },
+    {
+      "class": "group",
+      "id": "AB4A82F6-7022-44A6-A113-7AFF9E39FE2B"
+    }
+  ],
+  "name": "SNS buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A713CB9F-6ACB-4BA3-A4BD-4E656E914F1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

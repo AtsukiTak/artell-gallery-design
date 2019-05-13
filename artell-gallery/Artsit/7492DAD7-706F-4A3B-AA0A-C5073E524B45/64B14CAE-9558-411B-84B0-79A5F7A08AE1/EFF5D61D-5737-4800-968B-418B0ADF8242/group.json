@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EFF5D61D-5737-4800-968B-418B0ADF8242",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "207DB7CD-E74D-4DE3-8C17-8B11D85DF6E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "29907C5D-BF60-4780-9229-E8125298E727",
+    "height": 18,
+    "width": 18,
+    "x": 33,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D103EBA7-7FA2-494B-89FB-BC15E71C1209"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "22BBA282-2D9B-4994-AE3B-BE3D0692512B"
+    }
+  ],
+  "name": "twitter",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "09251E37-A5FF-4131-A636-E10E38765E38",
+      "opacity": 0.696939
+    },
+    "do_objectID": "BCA6AB6D-1C53-4A34-ADC9-6D1617214D31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFCE0364-1897-4D3E-9390-EB8C0654D323",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80225508-F877-4E83-8A3F-8583169FE6E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E67F5A00-5774-4A64-B3E2-8A1A8138E8AC",
+    "height": 75,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "32121A37-E25C-47A4-82D5-1D29A2DB0396"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "959A66A2-73F2-4444-AECA-AB68559E64C6"
+    },
+    {
+      "class": "text",
+      "id": "2348FC39-A5DF-49A8-B391-E2E5207C5188"
+    }
+  ],
+  "name": "App bar top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78CF36DB-CBC1-48D1-A920-7DF639220DF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

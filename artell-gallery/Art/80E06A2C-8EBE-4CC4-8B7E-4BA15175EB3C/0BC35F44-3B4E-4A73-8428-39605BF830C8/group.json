@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BC35F44-3B4E-4A73-8428-39605BF830C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 255,
+    "x": 57,
+    "y": 1117
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CA042EBA-B0BA-42A1-BC73-DDB5F1893A4C"
+    },
+    {
+      "class": "text",
+      "id": "AB50E147-F889-466B-A9BA-99B6E083AABF"
+    },
+    {
+      "class": "text",
+      "id": "F3A8FA88-0CC7-4141-A599-8D8DBF8D78AC"
+    },
+    {
+      "class": "group",
+      "id": "0C355E56-914B-43FF-B951-49A4D0BFE6EF"
+    }
+  ],
+  "name": "artist",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

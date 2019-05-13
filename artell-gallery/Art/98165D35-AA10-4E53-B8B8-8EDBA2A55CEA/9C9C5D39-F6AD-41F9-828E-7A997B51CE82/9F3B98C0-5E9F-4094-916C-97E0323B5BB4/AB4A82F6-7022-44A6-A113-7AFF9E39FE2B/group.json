@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB4A82F6-7022-44A6-A113-7AFF9E39FE2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F29A9D5-2246-4670-B695-524830344148",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6B6DFA10-9D23-4055-879B-C90343E47972",
+    "height": 18,
+    "width": 18,
+    "x": 66,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0A6B5A54-2074-426C-B4BB-D47D49D45C0C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0C97F1E3-8450-49C3-A9D5-86F4FCD81203"
+    }
+  ],
+  "name": "instagram",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C997FBDF-187F-4264-BF69-4321CEE1FD80",
+      "opacity": 0.696939
+    },
+    "do_objectID": "33B3DFEE-8DFB-4AC9-8D32-A0C9A972B3BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
