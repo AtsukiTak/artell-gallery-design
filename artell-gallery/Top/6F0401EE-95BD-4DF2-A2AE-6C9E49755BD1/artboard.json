@@ -74,6 +74,21 @@
       "id": "101F9FC8-7DC6-4D0A-9BEE-F9FE184D7827"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "Desktop HD",
   "nameIsFixed": false,
   "presetDictionary": {

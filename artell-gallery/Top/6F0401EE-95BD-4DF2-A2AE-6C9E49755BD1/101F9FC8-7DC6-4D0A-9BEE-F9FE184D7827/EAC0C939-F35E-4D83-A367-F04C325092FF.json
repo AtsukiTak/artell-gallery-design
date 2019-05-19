@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansCJKjp-Regular",
-              "size": 20
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D8864A3B-05B5-4080-A5C6-3B2C86D15448",
-    "height": 29,
-    "width": 136,
-    "x": 104,
+    "height": 27,
+    "width": 123,
+    "x": 117,
     "y": 252
   },
-  "glyphBounds": "{{2, 7}, {133, 21}}",
+  "glyphBounds": "{{1, 7}, {121, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansCJKjp-Regular",
-            "size": 20
+            "size": 18
           }
         },
         "paragraphStyle": {
