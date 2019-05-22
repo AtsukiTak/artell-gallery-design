@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3283514492753623,
-            "green": 0.3283514492753623,
-            "red": 0.3283514492753623
+            "blue": 0.2136548913043478,
+            "green": 0.2136548913043478,
+            "red": 0.2136548913043478
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansCJKjp-Regular",
+              "name": "NotoSansCJKjp-Medium",
               "size": 18
             }
           },
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "D2191435-1806-441D-B045-5B42359F2FD6",
     "height": 27,
-    "width": 127,
-    "x": 113,
-    "y": 252
+    "width": 130,
+    "x": 27,
+    "y": 27
   },
-  "glyphBounds": "{{4, 6}, {121, 16}}",
+  "glyphBounds": "{{3, 6}, {126, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -84,14 +84,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3283514492753623,
-          "green": 0.3283514492753623,
-          "red": 0.3283514492753623
+          "blue": 0.2136548913043478,
+          "green": 0.2136548913043478,
+          "red": 0.2136548913043478
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansCJKjp-Regular",
+            "name": "NotoSansCJKjp-Medium",
             "size": 18
           }
         },

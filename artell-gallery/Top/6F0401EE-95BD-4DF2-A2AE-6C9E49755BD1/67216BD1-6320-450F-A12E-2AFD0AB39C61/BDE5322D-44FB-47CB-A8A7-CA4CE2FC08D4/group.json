@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "8B3917D2-76E6-4F52-B71C-493EF1EAED16",
-    "height": 240,
-    "width": 240,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",

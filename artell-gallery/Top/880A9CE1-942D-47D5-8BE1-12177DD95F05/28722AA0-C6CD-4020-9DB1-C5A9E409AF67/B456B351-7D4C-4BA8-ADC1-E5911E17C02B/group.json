@@ -14,9 +14,9 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 150,
-    "width": 150,
+    "constrainProportions": true,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",

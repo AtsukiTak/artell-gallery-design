@@ -19,9 +19,9 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "C8E7FF04-4424-4C78-9AEA-99BE060D3E9D",
-    "height": 240,
-    "width": 238.4105960264901,
-    "x": 0.1747878269989147,
+    "height": 300,
+    "width": 298.0132450331126,
+    "x": 0.2184847837486434,
     "y": 0
   },
   "hasClippingMask": true,
@@ -137,7 +137,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 1,
         "spread": 0

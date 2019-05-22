@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "do_objectID": "173FB171-0A16-4350-B987-BC2ED53C5DC8",
-    "height": 299,
-    "width": 240,
-    "x": 790,
-    "y": 145
+    "height": 300,
+    "width": 300,
+    "x": 570,
+    "y": 204
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -33,16 +33,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "269C08EB-4EFA-454A-B64F-B22F70145FCA"
-    },
-    {
-      "class": "text",
-      "id": "C956A56B-C2DB-41EF-BA4C-7B1113ED306D"
-    },
     {
       "class": "group",
       "id": "BDE5322D-44FB-47CB-A8A7-CA4CE2FC08D4"

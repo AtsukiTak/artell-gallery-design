@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 150,
-    "width": 150,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
@@ -134,7 +134,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 1,
         "spread": 0

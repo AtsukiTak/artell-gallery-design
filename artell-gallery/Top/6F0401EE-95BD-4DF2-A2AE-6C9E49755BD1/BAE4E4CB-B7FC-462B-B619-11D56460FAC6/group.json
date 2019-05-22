@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "46D75694-459D-4337-B21A-8C05A8B426C2",
-    "height": 299,
-    "width": 240,
-    "x": 410,
-    "y": 145
+    "height": 300,
+    "width": 300,
+    "x": 240,
+    "y": 204
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -33,8 +33,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "8B586F9B-67B4-4F06-A438-E7258C8AA42F"
+    },
     {
       "class": "text",
       "id": "53E65379-A328-4819-BDEF-F3241C1C792F"
@@ -42,10 +46,6 @@
     {
       "class": "text",
       "id": "B669AF50-3FCC-4B3C-8661-21619FA234AB"
-    },
-    {
-      "class": "group",
-      "id": "8B586F9B-67B4-4F06-A438-E7258C8AA42F"
     }
   ],
   "name": "Artist1",

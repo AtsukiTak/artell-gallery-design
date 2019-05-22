@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "AD818186-1C1C-406E-A6EA-1270691A7897",
-    "height": 240,
-    "width": 240,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -42,6 +42,10 @@
     {
       "class": "bitmap",
       "id": "28E88DB3-4D76-4A13-B2DB-B74B75B616B2"
+    },
+    {
+      "class": "rectangle",
+      "id": "3DBE0ADF-708B-47B8-9B33-C3335F3E07B3"
     }
   ],
   "name": "artist1",

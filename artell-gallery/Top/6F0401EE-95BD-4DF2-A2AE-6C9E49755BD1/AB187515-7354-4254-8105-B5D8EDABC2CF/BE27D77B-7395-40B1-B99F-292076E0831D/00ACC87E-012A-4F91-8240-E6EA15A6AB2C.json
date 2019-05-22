@@ -19,8 +19,8 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "B4894C48-567D-4B68-9754-C926CF228752",
-    "height": 240,
-    "width": 240,
+    "height": 300.0000000000001,
+    "width": 300,
     "x": 0,
     "y": 5.684341886080801e-14
   },
@@ -121,7 +121,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 1,
         "spread": 0

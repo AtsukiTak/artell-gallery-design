@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 695,
+    "height": 957,
     "width": 375,
     "x": 430,
     "y": 150
@@ -47,20 +47,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "5E602218-B106-4E4D-BB8F-3E14A9AACCB5"
-    },
-    {
-      "class": "group",
-      "id": "2BF28E57-A616-4A68-A1B8-6C9D228A0979"
-    },
-    {
-      "class": "group",
-      "id": "14C3E768-A661-4CB0-8A46-82F634B8B2B9"
-    },
     {
       "class": "group",
       "id": "13D579AA-B395-4436-8B6E-26B76A22A8F7"
@@ -72,6 +60,10 @@
     {
       "class": "group",
       "id": "BF3E35C7-5044-42D9-B981-F506FF59C557"
+    },
+    {
+      "class": "text",
+      "id": "5E602218-B106-4E4D-BB8F-3E14A9AACCB5"
     }
   ],
   "name": "iPhone 8 Top",
