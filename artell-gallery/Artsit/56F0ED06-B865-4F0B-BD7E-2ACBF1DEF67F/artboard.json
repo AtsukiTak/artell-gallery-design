@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1118,
+    "height": 1214,
     "width": 1440,
     "x": 1388,
     "y": 150
@@ -30,8 +39,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,19 +84,11 @@
     },
     {
       "class": "group",
-      "id": "F999B5D5-F554-4CBE-8C08-2A56421C4448"
+      "id": "F741FC20-4327-4169-9A61-F149DDDEA830"
     },
     {
       "class": "group",
-      "id": "1940DCCF-BA4C-4344-A057-4C3DEAB7C4CA"
-    },
-    {
-      "class": "group",
-      "id": "1C5BB1C2-8C03-486A-9157-CA41B136F8CD"
-    },
-    {
-      "class": "text",
-      "id": "E756A4BC-2DAD-4886-896F-B16C1A47ECFC"
+      "id": "C254E086-2458-46C3-9472-11820E35F0A6"
     }
   ],
   "name": "Desktop HD",

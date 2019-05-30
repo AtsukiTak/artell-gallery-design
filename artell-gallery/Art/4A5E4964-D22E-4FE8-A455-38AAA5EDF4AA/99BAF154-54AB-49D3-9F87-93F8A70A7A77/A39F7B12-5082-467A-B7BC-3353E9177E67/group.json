@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A39F7B12-5082-467A-B7BC-3353E9177E67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95AF8E1C-972E-4598-AAE0-7A60BA2D6409",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F03ECFFA-6B79-4560-B790-A38DF2460A51",
+    "height": 67,
+    "width": 114,
+    "x": 199,
+    "y": 161.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "ECCFDBC9-0CBA-4759-AD07-710B2DEF2BD6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F419BAE3-9148-49C6-90B7-A9C013FE37B2"
+    },
+    {
+      "class": "text",
+      "id": "F74DAE4D-9D91-445F-B0E8-428AE500D75C"
+    },
+    {
+      "class": "text",
+      "id": "9B2AB055-26BC-4D56-AEB4-0E5348D6C73C"
+    }
+  ],
+  "name": "購入するボタン",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D891D4F5-B762-4EDC-929B-236BCCED9684",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

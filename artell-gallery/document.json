@@ -3,8 +3,42 @@
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6311424365942029,
+          "green": 0.6311424365942029,
+          "red": 0.6311424365942029
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2808820199275363,
+          "green": 0.2808820199275363,
+          "red": 0.2808820199275363
+        }
+      }
     ],
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6311424365942029,
+        "green": 0.6311424365942029,
+        "red": 0.6311424365942029
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2808820199275363,
+        "green": 0.2808820199275363,
+        "red": 0.2808820199275363
+      }
     ],
     "gradientAssets": [
     ],
@@ -32,8 +66,8 @@
     ]
   },
   "meta": {
-    "appVersion": "54.1",
-    "build": 76490,
+    "appVersion": "55",
+    "build": 78076,
     "version": 118
   },
   "pages": [

@@ -43,6 +43,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 0.99967964,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
